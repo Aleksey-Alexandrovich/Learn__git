@@ -1,6 +1,7 @@
 const sum = (a, b, c = 0) => {
 	const res = a + b;
-	return res + 'rub';
+	const f = a + b + c;
+	return res + 'rub' + c;
 };
 
 sum();
