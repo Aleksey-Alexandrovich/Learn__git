@@ -11,3 +11,5 @@ git clone https://github.com/Aleksey-Alexandrovich/Learn__git.git
 коммит.
 
 git commit -a -m ""
+
+#REBASE
