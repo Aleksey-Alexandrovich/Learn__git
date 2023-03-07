@@ -1,6 +1,6 @@
 const sum = (a, b) => {
 	const res = a + b;
-	return res;
+	return res + 'rub';
 };
 
 sum();git 
